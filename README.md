@@ -1,2 +1,2 @@
-# personal_resume
+# personal-resume
 我的个人简历
